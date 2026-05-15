@@ -1,0 +1,8 @@
+{
+  "name": "assets-ui-icons",
+  "description": "Game UI icons (inventory, skills, status, navigation)",
+  "version": "0.1.0",
+  "category": "icons",
+  "theme": "ui",
+  "assets": []
+}

@@ -32,7 +32,7 @@
   <SubTexture name="generic_stick_left" x="0" y="640" width="128" height="128" />
   <SubTexture name="generic_stick_press" x="128" y="640" width="128" height="128" />
   <SubTexture name="generic_stick_right" x="256" y="640" width="128" height="128" />
-  <SubTexture name="generic_stick_side" x="384" y="640" width="128" height="128" />
-  <SubTexture name="generic_stick_up" x="512" y="640" width="128" height="128" />
-  <SubTexture name="generic_stick_vertical" x="640" y="640" width="128" height="128" />
+  <SubTexture name="generic_stick_up" x="384" y="640" width="128" height="128" />
+  <SubTexture name="generic_stick_vertical" x="512" y="640" width="128" height="128" />
+  <SubTexture name="switch_stick_side" x="640" y="640" width="128" height="128" />
 </TextureAtlas>

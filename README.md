@@ -4,7 +4,7 @@ Game UI icons (inventory, skills, status, navigation)
 
 ## Stats
 
-- **Total assets**: 7529
+- **Total assets**: 9035
 - **License**: CC0-1.0 (all Kenney assets are public domain)
 - **Source**: [kenney.nl](https://kenney.nl)
 
@@ -12,11 +12,12 @@ Game UI icons (inventory, skills, status, navigation)
 
 | Pack | Assets | License | Link |
 |------|--------|---------|------|
-| Kenney Crosshair Pack | 1206 | CC0-1.0 | [Link](https://kenney.nl/assets/crosshair-pack) |
+| Kenney Crosshair Pack | 2009 | CC0-1.0 | [Link](https://kenney.nl/assets/crosshair-pack) |
 | Kenney Emotes Pack | 514 | CC0-1.0 | [Link](https://kenney.nl/assets/emotes-pack) |
-| Kenney Game Icons | 1221 | CC0-1.0 | [Link](https://kenney.nl/assets/game-icons) |
+| Kenney Flag Pack | 697 | CC0-1.0 | [Link](https://kenney.nl/assets/flag-pack) |
+| Kenney Game Icons | 427 | CC0-1.0 | [Link](https://kenney.nl/assets/game-icons) |
 | Kenney Game Icons Expansion | 794 | CC0-1.0 | [Link](https://kenney.nl/assets/game-icons-expansion) |
-| Kenney Input Prompts | 4588 | CC0-1.0 | [Link](https://kenney.nl/assets/input-prompts) |
+| Kenney Input Prompts | 4594 | CC0-1.0 | [Link](https://kenney.nl/assets/input-prompts) |
 
 ## Structure
 
@@ -25,7 +26,7 @@ assets-ui-icons/
 ├── assets/kenney/    # Organized by source pack
 ├── previews/         # Pack preview images
 ├── LICENSES/         # License files per pack
-├── manifest.json     # Machine-readable asset index (7529 entries)
+├── manifest.json     # Machine-readable asset index (9035 entries)
 ├── tags.json         # Genre, theme, style tags
 └── README.md
 ```
